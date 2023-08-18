@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeqqSyfOA8HLItGNouxNttSFob6H9VP60g&usqp=CAU)
+![MasterHead](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=2000)
 
 <h1 align="center">Hi 👋, I'm Aditya Dhiman</h1>
 <h3 style="text-transform:uppercase;"  align="center">A passionate MEAN STACK developer from India</h3>
