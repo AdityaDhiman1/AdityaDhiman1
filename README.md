@@ -1,5 +1,4 @@
-![MasterHead](
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeqqSyfOA8HLItGNouxNttSFob6H9VP60g&usqp=CAU)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeqqSyfOA8HLItGNouxNttSFob6H9VP60g&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Aditya Dhiman</h1>
 <h3 style="text-transform:uppercase;"  align="center">A passionate MEAN STACK developer from India</h3>
