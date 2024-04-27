@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/aditya dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aditya dhiman" height="30" width="40" /></a>
 <a href="https://twitter.com/AdityaDhiman07?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya dhiman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-dhiman-b032a1228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya dhiman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-b032a1228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya dhiman" height="30" width="40" /></a>
 <a href="https://fb.com/Adityadhimanmzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya dhiman" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya__dhiman__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya dhiman" height="30" width="40" /></a>
 </p>
